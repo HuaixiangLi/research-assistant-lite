@@ -1,0 +1,27 @@
+{
+  "name": "research-assistant-lite",
+  "version": "0.3.6",
+  "description": "A lightweight Zotero plugin for explainable rule-based tagging, ranked search, research overview, and duplicate hints.",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "node scripts/test.mjs",
+    "build": "node scripts/package.mjs",
+    "zip": "node scripts/package.mjs"
+  },
+  "keywords": [
+    "zotero",
+    "plugin",
+    "classification",
+    "tags",
+    "research-assistant",
+    "duplicate-detection"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^5.8.3"
+  },
+  "packageManager": "pnpm@11.7.0"
+}

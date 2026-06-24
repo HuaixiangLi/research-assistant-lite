@@ -1,0 +1,119 @@
+{
+  "PDH": {
+    "keywords": [
+      "propane dehydrogenation",
+      "dehydrogenation of propane",
+      "PDH",
+      "propylene production"
+    ],
+    "weight": 3
+  },
+  "CO2 hydrogenation": {
+    "keywords": [
+      "CO2 hydrogenation",
+      "carbon dioxide hydrogenation",
+      "CO2 conversion",
+      "CO2 activation",
+      "CO2-based methanol",
+      "methanol synthesis",
+      "formate"
+    ],
+    "weight": 3
+  },
+  "Ni catalyst": {
+    "keywords": ["Ni", "nickel", "Ni-based", "nickel-based"],
+    "weight": 2,
+    "wordBoundary": true
+  },
+  "Pt catalyst": {
+    "keywords": ["Pt", "platinum", "Pt-Sn", "PtSn"],
+    "weight": 2,
+    "wordBoundary": true
+  },
+  "In catalyst": {
+    "keywords": ["In2O3", "indium", "InOx", "In-based"],
+    "weight": 2
+  },
+  "Catalyst stability": {
+    "keywords": [
+      "catalyst stability",
+      "stability",
+      "deactivation",
+      "sintering",
+      "coke formation",
+      "coking",
+      "regeneration"
+    ],
+    "weight": 2
+  },
+  "Reaction mechanism": {
+    "keywords": [
+      "reaction mechanism",
+      "mechanism",
+      "active site",
+      "kinetic",
+      "kinetics",
+      "DFT",
+      "in situ",
+      "operando",
+      "pathway"
+    ],
+    "weight": 2
+  },
+  "Catalyst synthesis": {
+    "keywords": [
+      "catalyst synthesis",
+      "synthesis",
+      "preparation method",
+      "prepared by",
+      "sol-gel",
+      "impregnation",
+      "hydrothermal",
+      "atomic layer deposition"
+    ],
+    "weight": 1
+  },
+  "Dry reforming": {
+    "keywords": [
+      "dry reforming",
+      "DRM",
+      "methane reforming",
+      "CO2 reforming of methane"
+    ],
+    "weight": 2
+  },
+  "Oxidative dehydrogenation": {
+    "keywords": [
+      "oxidative dehydrogenation",
+      "ODH",
+      "propane ODH",
+      "ethane ODH"
+    ],
+    "weight": 2
+  },
+  "2D materials": {
+    "keywords": [
+      "two-dimensional",
+      "2D",
+      "MXene",
+      "layered double hydroxide",
+      "graphene",
+      "boron nitride",
+      "nanosheet"
+    ],
+    "weight": 1
+  },
+  "Zeolite catalyst": {
+    "keywords": ["zeolite", "ZSM-5", "SAPO", "MFI", "Beta zeolite"],
+    "weight": 1
+  },
+  "review": {
+    "keywords": [
+      "review",
+      "recent progress",
+      "advances and perspectives",
+      "perspective"
+    ],
+    "weight": 1
+  }
+}
